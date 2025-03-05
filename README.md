@@ -1,2 +1,5 @@
 # ML-Pro
-machine-learning-projects
+📁 machine-learning-projects  
+│   ├── 🏡 house-price-prediction  
+│   ├── 🔧 predictive-maintenance  
+│   ├── 💰 dynamic-pricing 
